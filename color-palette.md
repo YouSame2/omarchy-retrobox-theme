@@ -6,8 +6,7 @@ blue #83a598
 purple #d3869b
 aqua #8ec07c
 orange #fe8019
-white #ebdbb2
-white #fbf1c7
+white #a89984
 black #1c1c1c
 darkred #cc241d
 darkyellow #d79921
@@ -18,3 +17,4 @@ darkaqua #689d6a
 darkorange #d65d0e
 lightwhite #ebdbb2
 lightblack #a89984
+lightblack #5C5855
