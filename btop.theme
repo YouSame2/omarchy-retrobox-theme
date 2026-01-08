@@ -16,7 +16,7 @@ theme[main_bg]="#1c1c1c"
 theme[main_fg]="#ebdbb2"
 
 # Title color for boxes
-theme[title]="#fbf1c7"
+theme[title]="#ebdbb2"
 
 # Highlight color for keyboard shortcuts
 theme[hi_fg]="#d79921"
